@@ -1,0 +1,9 @@
+ body{font-family: Arial, Helvetica, sans-serif; background-color:rgb(210, 205, 205) ; }
+
+            h1{color: #ded2de; background-color: #7c657c; padding: 1.5rem;}
+
+            p{margin: 1.5rem;}
+
+            img{ float: right; border: 2px #ffffff solid; /**controls border width, line style **/margin:.65rem; max-width: 100%;}
+
+            h2{color: #7c657c; ;}
