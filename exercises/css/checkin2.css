@@ -1,20 +1,26 @@
- body{font-family: Arial, Helvetica, sans-serif; background-color:rgb(210, 205, 205) ; }
-
-            h1{color: #ded2de; background-color: #7c657c; padding: 1.5rem; text-transform: uppercase;font-family: "boldonse", system-ui; font-weight: 400; font-style: normal;}
+h2, h3{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+ 
+ 
+ body{font-family:"IBM Plex Sans Condensed", sans-serif;}
+            h1{color: #f3f4f6; font-size:2.5rem; background-color: #687c82; padding: 1.5rem; text-transform: uppercase; font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-weight: 100;
+  font-style:normal;}
 
             p{margin: 1.5rem;}
 
-            p{padding-left: 1.3rem; padding-right: 1.3rem; line-height: 1.5rem; font-family: 'Courier New', Courier, monospace;}
+            p{padding-left: 1.3rem; padding-right: 1.3rem; line-height: 1.5rem; font-family: "IBM Plex Sans Condensed", sans-serif;}
 
-            img{ float: right; border: 2px #ffffff solid; /**controls border width, line style **/margin:.65rem; max-width: 100%;}
+            img{ float: right; border: 4px #687c82 double; /**controls border width, line style **/margin:.65rem; max-width: 100%;}
 
-            h2{color: #7c657c; margin: .5rem; border: none;}
+            h2{color: #4e5b5f; margin: .5rem;}
+
+            h3{color: #4e5b5f; margin: 1.5rem;}
+
+            h4{color: #f3f4f6; background-color: #687c82; padding: .5rem;}
 
             hr{border: dashed 
-                #5b4c5b }
+                #8dabb4; padding-left: .5rem; padding-right: .5rem;}
 
-            a:link{color: rgb(164, 34, 103);text-decoration: none;}
-            a:visited{color: #c61f1f}
-            a:hover{color: rgb(211, 205, 246); text-decoration: underline;}
-
-                
+        a:link{color: #ca4693}
+        a:hover{color:rgb(29, 55, 55)}
+        a:visited{color:#6f4b0d}
