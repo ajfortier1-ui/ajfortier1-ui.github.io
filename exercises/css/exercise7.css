@@ -1,0 +1,22 @@
+
+body{background-color:rgb(253, 233, 236); margin: 0; font-family:Arial, Helvetica, sans-serif;}
+main{border: 0px red solid}
+h1{text-align: center;}
+h2.Logo{text-align: left; background-color: rgb(89, 18, 133); width: 6rem; height: 6rem; display: grid; align-items: center; border-radius: 50%; text-align: center;}
+header{background-color: black; color: white; padding: 2rem; text-align: right;}
+article{background-color: white; border: 1px solid grey; padding: 1.3rem; margin: .5rem
+; margin-bottom: 1.5rem; border-radius:.5rem;}
+footer{background-color: black; color: white; padding: 1rem; text-align: center;}
+.wrapper{border: 0px black solid; margin: 0 auto; max-width: 40rem;}
+
+
+/*link styling*/
+a:link{color:green;}
+a:visited{color: red;}
+a:active{color: aqua;}
+
+/*link styling - header */
+header a:link{color: white; text-decoration: none;}
+header a:visited{color: white; text-decoration: none;}
+header a:hover{color: aqua;}
+header a:active{color: blueviolet; text-decoration: underline;}
