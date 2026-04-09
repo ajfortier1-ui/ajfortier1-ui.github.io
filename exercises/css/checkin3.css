@@ -78,6 +78,7 @@ h2{
 
 
 .image3{
+    text-wrap: wrap;
     float: right;
     margin: 2px;
 }
